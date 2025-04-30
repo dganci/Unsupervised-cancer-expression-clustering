@@ -1,1 +1,3 @@
 # Unsupervised-cancer-expression-clustering
+
+This project was developed as part of the Advanced Machine Learning exam (MSc in Bioinformatics, University of Bologna), which aims to analyse the clustering of 4 types of cancer based on gene expression profiles. The data is previously reconstructed by a trained autoencoder in order to get an embedded representation. Then, it is clustered using the KMeans algorithm. The final objective is to compare the clustering results from original data and reconstructed data through the autoencoder.
